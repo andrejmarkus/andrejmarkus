@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gastycode&label=Profile%20views&color=0e75b6&style=flat" alt="gastycode" /> </p>
 
-- 🔭 I’m currently working on **TaskDojo**
+- 🔭 I’m currently working on **PhDManager**
 
 - 🌱 I’m currently learning **Blazor**
 
